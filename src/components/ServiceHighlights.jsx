@@ -14,7 +14,7 @@ export default function ServiceHighlights() {
   return (
     <section className="container">
       <div>
-        <h1 className=" text-[43px] font-bold max-w-[20ch] mx-auto text-center">
+        <h1 className=" text-[43px] font-bold max-w-[20ch] mx-auto text-center mb-[69px]">
           Simplify your business with the Saas <img className="inline" src={cloudIcon} alt="" /> services
         </h1>
         <main className="grid  md:grid-cols-2 gap-[30px]">

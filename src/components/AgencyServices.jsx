@@ -16,8 +16,8 @@ export default function AgencyServices() {
   return (
     <section className="container">
       <main>
-        <div>
-          <h1 className="text-[43px] font-bold"> Where Imagination Meets the agency Innovation</h1>
+        <div className="text-center">
+          <h1 className="text-[43px] font-bold mb-[60px] lg:max-w-[25ch] mx-auto"> Where Imagination Meets the agency Innovation</h1>
         </div>
         <article className="grid grid-cols-12 gap-[30px]">
           {data.map((data, idx) => (

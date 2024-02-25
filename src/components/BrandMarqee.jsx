@@ -98,6 +98,7 @@ export default function BrandMarqee() {
             ))}
           </div>
         </Marquee>
+        <div className="py-[15px]"></div>
         <Marquee direction="right" speed={40}>
           <div className="flex items-center gap-[30px]">
             {brandData2.map((data) => (
