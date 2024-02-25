@@ -38,7 +38,6 @@ function App() {
       <div className="mt-[80px] mb-[37px]">
         <Footer />
       </div>
-      <div className="min-h-[80vh]"></div>
     </div>
   );
 }
